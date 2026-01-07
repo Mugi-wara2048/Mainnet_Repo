@@ -1,2 +1,2 @@
 # Mainnets_Repo
-Mainnet SC 2026
+Mainnet Smart Contracts 2026
